@@ -1,0 +1,40 @@
+.background {
+  background-color: #999999;
+}
+
+nav {
+  padding-top: .75em;
+}
+
+nav ul {
+  list-style: none;
+  text-align: center;
+  padding-top: .5em;
+  padding-left: 0;
+  margin: .75em;
+
+}
+nav li {
+  display: inline;
+  margin: .25em;
+}
+nav a {
+  display: inline;
+  text-decoration: none;
+  padding: 1em;
+  border: 2px dotted #ccccff;
+  border-radius: .7em;
+  font-family: sans-serif;
+}
+nav a:hover,
+nav a:focus {
+}
+
+a {
+  color: #000;
+}
+
+a:hover,
+a:focus {
+  color: #fff;
+}
